@@ -1,5 +1,5 @@
 {
-    "runtime_id": 11,
+    "runtime_id": 9,
     "types": { },
     "versioning": [
         {
@@ -10,13 +10,12 @@
             "types": {
                 "Balance": "u128",
                 "Index": "u32",
+                "Phase": "130",
                 "Address": "0",
-                "Phase": "frame_system::Phase",
-                "ExtrinsicSignature": "sp_runtime::MultiSignature",
-                "ParaId": "polkadot_parachain::primitives::Id",
-                "kintsugi_runtime_parachain::Event": "GenericEvent",
-                "kintsugi_runtime_parachain::Call": "GenericCall",
-                "sp_core::crypto::AccountId32": "GenericAccountId"
+                "ExtrinsicSignature": "389",
+                "ParaId": "196",
+                "20": "GenericEvent",
+                "156": "GenericCall"
             }
         }
     ]

@@ -1,5 +1,5 @@
 {
-    "runtime_id": 927,
+    "runtime_id": 922,
     "types": { },
     "versioning": [
         {
@@ -10,13 +10,12 @@
             "types": {
                 "Balance": "u128",
                 "Index": "u32",
-                "Phase": "frame_system::Phase",
-                "Address": "sp_runtime::multiaddress::MultiAddress",
-                "ExtrinsicSignature": "sp_runtime::MultiSignature",
-                "ParaId": "polkadot_parachain::primitives::Id",
-                "bifrost_kusama_runtime::Event": "GenericEvent",
-                "bifrost_kusama_runtime::Call": "GenericCall",
-                "sp_core::crypto::AccountId32": "GenericAccountId"
+                "Phase": "134",
+                "Address": "195",
+                "ExtrinsicSignature": "515",
+                "ParaId": "114",
+                "17": "GenericEvent",
+                "248": "GenericCall"
             }
         }
     ]

@@ -1,5 +1,5 @@
 {
-    "runtime_id": 10400,
+    "runtime_id": 10310,
     "types": { },
     "versioning": [
         {
@@ -10,13 +10,12 @@
             "types": {
                 "Balance": "u128",
                 "Index": "u64",
-                "Phase": "frame_system::Phase",
-                "Address": "sp_runtime::multiaddress::MultiAddress",
-                "ExtrinsicSignature": "sp_runtime::MultiSignature",
-                "ParaId": "polkadot_parachain::primitives::Id",
-                "spiritnet_runtime::Event": "GenericEvent",
-                "spiritnet_runtime::Call": "GenericCall",
-                "sp_core::crypto::AccountId32": "GenericAccountId"
+                "Phase": "58",
+                "Address": "97",
+                "ExtrinsicSignature": "214",
+                "ParaId": "223",
+                "20": "GenericEvent",
+                "170": "GenericCall"
             }
         }
     ]

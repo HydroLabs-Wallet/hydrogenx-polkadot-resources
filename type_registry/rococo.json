@@ -1,5 +1,5 @@
 {
-  "runtime_id": 9142,
+  "runtime_id": 9141,
   "types": { },
   "versioning": [
     {
@@ -10,13 +10,12 @@
       "types": {
         "Balance": "u128",
         "Index": "u32",
-        "Phase": "frame_system::Phase",
-        "Address": "sp_runtime::multiaddress::MultiAddress",
-        "ExtrinsicSignature": "sp_runtime::MultiSignature",
-        "ParaId": "polkadot_parachain::primitives::Id",
-        "rococo_runtime::Event": "GenericEvent",
-        "rococo_runtime::Call": "GenericCall",
-        "sp_core::crypto::AccountId32": "GenericAccountId"
+        "Phase": "128",
+        "Address": "182",
+        "ExtrinsicSignature": "360",
+        "ParaId": "45",
+        "17": "GenericEvent",
+        "388": "GenericCall"
       }
     }
   ]

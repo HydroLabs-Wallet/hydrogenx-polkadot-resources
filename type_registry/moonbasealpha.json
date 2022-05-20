@@ -1,5 +1,5 @@
 {
-    "runtime_id": 1300,
+    "runtime_id": 1102,
     "types": {},
     "versioning": [
         {
@@ -10,7 +10,7 @@
             "types": {
                 "Balance": "u128",
                 "Index": "u32",
-                "Phase": "frame_system::Phase",
+                "Phase": "131",
                 "H160": "[u8; 20]",
                 "0": "H160",
                 "Address": "0",
@@ -32,19 +32,10 @@
                     ]
                 },
                 "ExtrinsicSignature": "EthereumSignature",
-                "ParaId": "polkadot_parachain::primitives::Id",
-                "moonbase_runtime::Event": "GenericEvent",
-                "moonbase_runtime::Call": "GenericCall",
-                "sp_core::crypto::AccountId32": "GenericAccountId"
+                "ParaId": "164",
+                "21": "GenericEvent",
+                "152": "GenericCall"
             }
         }
-    ],
-    "overrides": [
-      {
-        "module": "Babe",
-        "constants": [
-          { "name": "ExpectedBlockTime", "value": "12000" }
-        ]
-      }
     ]
 }

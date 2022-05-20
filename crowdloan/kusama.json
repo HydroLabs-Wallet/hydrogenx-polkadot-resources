@@ -318,55 +318,9 @@
     "paraid": "2106",
     "name": "Litmus",
     "token": "LIT",
-    "description": "A companion canary network to Litentry. Litentry is a Decentralized Identity Aggregation protocol across multiple networks",
+    "description": "A companion canary network to Litentry. Litentry is a Decentralized Identity Aggregation protocol across multiple networks.",
     "website": "https://kusama-crowdloan.litentry.com",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/litmus.png",
     "rewardRate": 30
-  },
-  {
-    "paraid": "2107",
-    "name": "KICO",
-    "token": "KICO",
-    "description": "ICO platform for decentralized auto organization",
-    "website": "https://dico.io/",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/kico.png",
-    "rewardRate": 20000
-  },
-  {
-    "paraid": "2110",
-    "name": "Mangata X",
-    "token": "MGX",
-    "description": "A community-owned exchange for experienced traders & experimental tokens",
-    "website": "https://x.mangata.finance/",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/MagnataX.png",
-    "rewardRate": 6250
-  },
-  {
-    "paraid": "2115",
-    "name": "Dora Factory",
-    "token": "DORA",
-    "description": "The DAO infrastructure of the Kusama ecosystem",
-    "website": "https://dorafactory.org/kusama/",
-    "icon": "",
-    "rewardRate": 3
-  },
-  {
-    "paraid": "2116",
-    "name": "Tanganika",
-    "token": "DHX",
-    "description": "Inter-Chain Data Market and LPWAN",
-    "website": "https://dev.datahighway.com/docs/crowdloans/crowdloan-tanganika",
-    "icon": "",
-    "rewardRate": 20
-  },
-  {
-    "paraid": "2118",
-    "name": "Listen",
-    "token": "LT",
-    "description": "Voice social software based on decentralized data storage technology and blockchain technology",
-    "website": "https://listen.io/",
-    "icon": "",
-    "rewardRate": 1
   }
-  
 ]

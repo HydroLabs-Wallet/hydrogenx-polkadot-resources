@@ -1,5 +1,5 @@
 {
-    "runtime_id": 2040,
+    "runtime_id": 2021,
     "types": { },
     "versioning": [
         {
@@ -12,13 +12,12 @@
                 "sp_runtime::MultiSignature": "acala_primitives::signature::AcalaMultiSignature",
                 "Balance": "u128",
                 "Index": "u32",
-                "Phase": "frame_system::Phase",
-                "Address": "sp_runtime::multiaddress::MultiAddress",
-                "ExtrinsicSignature": "acala_primitives::signature::AcalaMultiSignature",
-                "ParaId": "polkadot_parachain::primitives::Id",
-                "acala_runtime::Event": "GenericEvent",
-                "acala_runtime::Call": "GenericCall",
-                "sp_core::crypto::AccountId32": "GenericAccountId"
+                "Phase": "174",
+                "Address": "214",
+                "ExtrinsicSignature": "539",
+                "ParaId": "111",
+                "17": "GenericEvent",
+                "198": "GenericCall"
             }
         }
     ]

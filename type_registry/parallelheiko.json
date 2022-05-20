@@ -1,5 +1,5 @@
 {
-  "runtime_id": 178,
+  "runtime_id": 175,
   "types": { },
   "versioning": [
     {
@@ -10,13 +10,12 @@
       "types": {
         "Balance": "u128",
         "Index": "u32",
-        "Phase": "frame_system::Phase",
-        "Address": "sp_runtime::multiaddress::MultiAddress",
-        "ExtrinsicSignature": "sp_runtime::MultiSignature",
-        "ParaId": "polkadot_parachain::primitives::Id",
-        "heiko_runtime::Event": "GenericEvent",
-        "heiko_runtime::Call": "GenericCall",
-        "sp_core::crypto::AccountId32": "GenericAccountId"
+        "Phase": "134",
+        "Address": "162",
+        "ExtrinsicSignature": "416",
+        "ParaId": "114",
+        "20": "GenericEvent",
+        "158": "GenericCall"
       }
     }
   ]

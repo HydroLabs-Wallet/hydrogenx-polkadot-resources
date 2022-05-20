@@ -227,14 +227,5 @@
     "website": "https://www.polkadex.trade/crowdloans",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/polkadex.png",
     "rewardRate": 0.1875
-  },
-  {
-    "paraid": "2038",
-    "name": "Geminis",
-    "token": "GEM",
-    "description": "Geminis takes Ethereum chain support to the next level through WasmEdge",
-    "website": "https://geminis.network/",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Geminis.png",
-    "rewardRate": 10.5
   }
 ]

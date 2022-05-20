@@ -1,5 +1,5 @@
 {
-    "runtime_id": 1009,
+    "runtime_id": 1007,
     "types": { },
     "versioning": [
         {
@@ -10,13 +10,12 @@
             "types": {
                 "Balance": "u128",
                 "Index": "u32",
-                "Phase": "frame_system::Phase",
-                "Address": "sp_runtime::multiaddress::MultiAddress",
-                "ExtrinsicSignature": "sp_runtime::MultiSignature",
-                "ParaId": "polkadot_parachain::primitives::Id",
-                "altair_runtime::Event": "GenericEvent",
-                "altair_runtime::Call": "GenericCall",
-                "sp_core::crypto::AccountId32": "GenericAccountId"
+                "Phase": "61",
+                "Address": "123",
+                "ExtrinsicSignature": "220",
+                "ParaId": "91",
+                "20": "GenericEvent",
+                "157": "GenericCall"
             }
         }
     ]
